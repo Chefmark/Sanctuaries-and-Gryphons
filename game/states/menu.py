@@ -9,4 +9,4 @@ class Menu:
 
 
     def draw_cursor(self):
-        self.game.draw_text(self.game.screen, "*", 75, config.WHITE, self.cursor_rect.x, self.cursor_rect.y)
+        self.game.draw_text(self.game.screen, "*", 18, config.WHITE, self.cursor_rect.x + 50, self.cursor_rect.y)
