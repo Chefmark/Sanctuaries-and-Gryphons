@@ -1,0 +1,225 @@
+{
+  "exportTimestamp": "2025-10-15T18-05-27",
+  "bodyType": "male",
+  "standardAnimations": {
+    "exported": {
+      "spellcast": [
+        "005 cape solid_behind white.png",
+        "010 body bodies male light.png",
+        "020 legs shorts shorts male leather.png",
+        "025 feet boots basic male leather.png",
+        "035 torso clothes shortsleeve shortsleeve male green.png",
+        "070 arms gloves male brown.png",
+        "070 torso waist belt_double male brown.png",
+        "085 cape solid female white.png",
+        "090 cape trim female white.png",
+        "100 head heads human male light.png",
+        "105 eyes human adult default brown.png",
+        "120 hair plain adult light_brown.png"
+      ],
+      "thrust": [
+        "005 cape solid_behind white.png",
+        "010 body bodies male light.png",
+        "020 legs shorts shorts male leather.png",
+        "025 feet boots basic male leather.png",
+        "035 torso clothes shortsleeve shortsleeve male green.png",
+        "070 arms gloves male brown.png",
+        "070 torso waist belt_double male brown.png",
+        "085 cape solid female white.png",
+        "090 cape trim female white.png",
+        "100 head heads human male light.png",
+        "105 eyes human adult default brown.png",
+        "120 hair plain adult light_brown.png"
+      ],
+      "walk": [
+        "005 cape solid_behind white.png",
+        "009 weapon magic s universal background medium.png",
+        "010 body bodies male light.png",
+        "020 legs shorts shorts male leather.png",
+        "025 feet boots basic male leather.png",
+        "035 torso clothes shortsleeve shortsleeve male green.png",
+        "070 arms gloves male brown.png",
+        "070 torso waist belt_double male brown.png",
+        "085 cape solid female white.png",
+        "090 cape trim female white.png",
+        "100 head heads human male light.png",
+        "105 eyes human adult default brown.png",
+        "120 hair plain adult light_brown.png",
+        "140 weapon magic s universal foreground medium.png"
+      ],
+      "slash": [
+        "005 cape solid_behind white.png",
+        "010 body bodies male light.png",
+        "020 legs shorts shorts male leather.png",
+        "025 feet boots basic male leather.png",
+        "035 torso clothes shortsleeve shortsleeve male green.png",
+        "070 arms gloves male brown.png",
+        "070 torso waist belt_double male brown.png",
+        "085 cape solid female white.png",
+        "090 cape trim female white.png",
+        "100 head heads human male light.png",
+        "105 eyes human adult default brown.png",
+        "120 hair plain adult light_brown.png"
+      ],
+      "shoot": [
+        "005 cape solid_behind white.png",
+        "010 body bodies male light.png",
+        "020 legs shorts shorts male leather.png",
+        "025 feet boots basic male leather.png",
+        "035 torso clothes shortsleeve shortsleeve male green.png",
+        "070 arms gloves male brown.png",
+        "070 torso waist belt_double male brown.png",
+        "085 cape solid female white.png",
+        "090 cape trim female white.png",
+        "100 head heads human male light.png",
+        "105 eyes human adult default brown.png",
+        "120 hair plain adult light_brown.png"
+      ],
+      "hurt": [
+        "005 cape solid_behind white.png",
+        "009 weapon magic s universal background medium.png",
+        "010 body bodies male light.png",
+        "020 legs shorts shorts male leather.png",
+        "025 feet boots basic male leather.png",
+        "035 torso clothes shortsleeve shortsleeve male green.png",
+        "070 arms gloves male brown.png",
+        "070 torso waist belt_double male brown.png",
+        "085 cape solid female white.png",
+        "090 cape trim female white.png",
+        "100 head heads human male light.png",
+        "105 eyes human adult default brown.png",
+        "120 hair plain adult light_brown.png",
+        "140 weapon magic s universal foreground medium.png"
+      ],
+      "climb": [
+        "010 body bodies male light.png",
+        "020 legs shorts shorts male leather.png",
+        "025 feet boots basic male leather.png",
+        "035 torso clothes shortsleeve shortsleeve male green.png",
+        "070 arms gloves male brown.png",
+        "100 head heads human male light.png",
+        "120 hair plain adult light_brown.png"
+      ],
+      "idle": [
+        "010 body bodies male light.png",
+        "020 legs shorts shorts male leather.png",
+        "025 feet boots basic male leather.png",
+        "035 torso clothes shortsleeve shortsleeve male green.png",
+        "070 arms gloves male brown.png",
+        "100 head heads human male light.png",
+        "105 eyes human adult default brown.png",
+        "120 hair plain adult light_brown.png"
+      ],
+      "jump": [
+        "010 body bodies male light.png",
+        "020 legs shorts shorts male leather.png",
+        "025 feet boots basic male leather.png",
+        "035 torso clothes shortsleeve shortsleeve male green.png",
+        "070 arms gloves male brown.png",
+        "100 head heads human male light.png",
+        "105 eyes human adult default brown.png",
+        "120 hair plain adult light_brown.png"
+      ],
+      "sit": [
+        "010 body bodies male light.png",
+        "020 legs shorts shorts male leather.png",
+        "025 feet boots basic male leather.png",
+        "035 torso clothes shortsleeve shortsleeve male green.png",
+        "070 arms gloves male brown.png",
+        "100 head heads human male light.png",
+        "105 eyes human adult default brown.png",
+        "120 hair plain adult light_brown.png"
+      ],
+      "emote": [
+        "010 body bodies male light.png",
+        "020 legs shorts shorts male leather.png",
+        "025 feet boots basic male leather.png",
+        "035 torso clothes shortsleeve shortsleeve male green.png",
+        "070 arms gloves male brown.png",
+        "100 head heads human male light.png",
+        "105 eyes human adult default brown.png",
+        "120 hair plain adult light_brown.png"
+      ],
+      "run": [
+        "010 body bodies male light.png",
+        "020 legs shorts shorts male leather.png",
+        "025 feet boots basic male leather.png",
+        "035 torso clothes shortsleeve shortsleeve male green.png",
+        "070 arms gloves male brown.png",
+        "100 head heads human male light.png",
+        "105 eyes human adult default brown.png",
+        "120 hair plain adult light_brown.png"
+      ],
+      "combat_idle": [
+        "010 body bodies male light.png",
+        "020 legs shorts shorts male leather.png",
+        "025 feet boots basic male leather.png",
+        "035 torso clothes shortsleeve shortsleeve male green.png",
+        "070 arms gloves male brown.png",
+        "100 head heads human male light.png",
+        "105 eyes human adult default brown.png",
+        "120 hair plain adult light_brown.png"
+      ],
+      "backslash": [
+        "010 body bodies male light.png",
+        "020 legs shorts shorts male leather.png",
+        "025 feet boots basic male leather.png",
+        "035 torso clothes shortsleeve shortsleeve male green.png",
+        "070 arms gloves male brown.png",
+        "100 head heads human male light.png",
+        "105 eyes human adult default brown.png",
+        "120 hair plain adult light_brown.png"
+      ],
+      "halfslash": [
+        "010 body bodies male light.png",
+        "020 legs shorts shorts male leather.png",
+        "025 feet boots basic male leather.png",
+        "035 torso clothes shortsleeve shortsleeve male green.png",
+        "070 arms gloves male brown.png",
+        "100 head heads human male light.png",
+        "105 eyes human adult default brown.png",
+        "120 hair plain adult light_brown.png"
+      ]
+    },
+    "failed": {}
+  },
+  "customAnimations": {
+    "exported": {
+      "thrust_oversize": [
+        "005 cape solid_behind white.png",
+        "010 body bodies male light.png",
+        "020 legs shorts shorts male leather.png",
+        "025 feet boots basic male leather.png",
+        "035 torso clothes shortsleeve shortsleeve male green.png",
+        "070 arms gloves male brown.png",
+        "070 torso waist belt_double male brown.png",
+        "085 cape solid female white.png",
+        "090 cape trim female white.png",
+        "100 head heads human male light.png",
+        "105 eyes human adult default brown.png",
+        "120 hair plain adult light_brown.png",
+        "0-1 weapon magic s thrust background medium.png",
+        "150 weapon magic s thrust foreground medium.png"
+      ]
+    },
+    "failed": {}
+  },
+  "frameSize": 64,
+  "frameCounts": {
+    "spellcast": 7,
+    "thrust": 8,
+    "walk": 9,
+    "slash": 6,
+    "shoot": 13,
+    "hurt": 6,
+    "climb": 6,
+    "idle": 2,
+    "jump": 5,
+    "sit": 3,
+    "emote": 3,
+    "run": 8,
+    "combat_idle": 2,
+    "backslash": 13,
+    "halfslash": 7
+  }
+}
