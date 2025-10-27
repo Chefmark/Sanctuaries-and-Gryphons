@@ -13,6 +13,7 @@ class Game:
         self.dt = 0
         self.player = None
 
+        self.events = []  # <--- store last frame events here
 
         self.actions = {
                 'space':False, 
@@ -82,7 +83,9 @@ class Game:
     
 
     def check_events(self):
-        for event in pygame.event.get():
+        events = pygame.event.get()
+        self.events = events
+        for event in events:
             if event.type == pygame.QUIT:
                 self.running, self.playing = False, False
             if event.type == pygame.KEYDOWN:
@@ -112,4 +115,3 @@ class Game:
             self.check_events()
             self.render()
             self.update()
-                
